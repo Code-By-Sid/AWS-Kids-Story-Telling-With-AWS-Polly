@@ -326,25 +326,15 @@ The Lambda execution role requires permissions for:
 
 # 📸 Sample Output
 
-```text
-Story Name:
-The Honest Woodcutter
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dcfe5b4d-555d-4ad7-bd69-1506bbdce48a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3178b8a-6c7b-4138-b869-9dccb1dd419d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff949325-6a10-44b2-bf72-0428b17136f6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee52326a-a311-4676-b383-3a5fe4d57640" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d67cc984-2919-42a9-a4f9-42f4c2a060fc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0eb1663c-301f-4d35-8835-1c163e0455c7" />
 
-Story Description:
-A moral story about honesty and kindness.
 
-Word Count:
-168
 
-Reading Time:
-0.84 Minutes
-
-Audio:
-▶ Play Story
-
-Uploaded:
-16 July 2026
-```
 
 ---
 
